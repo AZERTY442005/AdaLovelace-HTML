@@ -1,0 +1,9 @@
+{
+	"name": "AdaLovelaace",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AZERTY442005/AdaLovelace-HTML.git"
+	},
+	"main": "Home Page/index.html"
+}
